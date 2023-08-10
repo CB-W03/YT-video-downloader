@@ -10,4 +10,4 @@ print("Views: ", yt.views)
 
 yd = yt.streams.get_highest_resolution()
 
-yd.download('C:\\Users\\wodid\\OneDrive\\Desktop')
+yd.download('ENTER FILE PATH HERE FOR LOCATION')
